@@ -1,0 +1,1 @@
+Following some React + Flux tutorials from scotch.io
